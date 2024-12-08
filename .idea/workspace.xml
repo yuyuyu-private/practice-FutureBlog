@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fb7d40a-6cc0-4575-953d-65ebd2e61bbe" name="変更" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/ArrayBasicPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/ArrayMethodPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/ArrayMethodPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/ArrayMethodPractice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/CalculatePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/DoubleArrayBasicPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/DoubleArrayMethodPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/ForBasicPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/ForHiLevelPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/ForNormalPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/IfBasicPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/IfCalculatePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/IfNormalPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/MethodBasicPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/MethodBasicPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/MethodBasicPractice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/PrimitiveCastPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/SwitchBasicPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/VariablePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1/WhileBasicPractice.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ptPDHu4kIMheBb2Yi6bZKZLFp8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "アプリケーション.ArrayBasicPractice.executor": "Run",
+    "アプリケーション.ArrayMethodPractice.executor": "Run",
+    "アプリケーション.ArrayMethodPractice2.executor": "Run",
+    "アプリケーション.ArrayMethodPractice3.executor": "Run",
+    "アプリケーション.CalculatePractice.executor": "Run",
+    "アプリケーション.DoubleArrayBasicPractice.executor": "Run",
+    "アプリケーション.DoubleArrayMethodPractice.executor": "Run",
+    "アプリケーション.ForBasicPractice.executor": "Run",
+    "アプリケーション.ForHiLevelPractice.executor": "Run",
+    "アプリケーション.ForNormalPractice.executor": "Run",
+    "アプリケーション.IfBasicPractice.executor": "Run",
+    "アプリケーション.IfCalculatePractice.executor": "Run",
+    "アプリケーション.IfNormalPractice.executor": "Run",
+    "アプリケーション.MethodBasicPractice.executor": "Run",
+    "アプリケーション.MethodBasicPractice2.executor": "Run",
+    "アプリケーション.MethodBasicPractice3.executor": "Run",
+    "アプリケーション.PrimitiveCastPractice.executor": "Run",
+    "アプリケーション.SwitchBasicPractice.executor": "Run",
+    "アプリケーション.VariablePractice.executor": "Run",
+    "アプリケーション.WhileBasicPractice.executor": "Run"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="デフォルトタスク">
+      <changelist id="1fb7d40a-6cc0-4575-953d-65ebd2e61bbe" name="変更" comment="" />
+      <created>1733582279985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733582279985</updated>
+    </task>
+    <servers />
+  </component>
+</project>
